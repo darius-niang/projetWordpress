@@ -1,0 +1,19 @@
+plugins utilisés:
+addon-for-elementor
+akismet
+contact-form-7
+elementor
+essential-addon-for-elementor
+ocean-costom-sidebar
+ocean-extra
+ocean-product-sharing
+ocean-social-sharing
+ocean-stick-anything
+polylang
+premium addon-for elementor
+sticky-header-oceanwp
+ti-woocommerce
+woocommerce
+woocommerce-gateway-paypal-express
+woocommerce-quick-buy
+woo-variation-swatches
